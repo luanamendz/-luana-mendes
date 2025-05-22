@@ -1,1 +1,6 @@
-
+git init
+git add .
+git commit -m "Primeiro commit do portfólio"
+git branch -M main
+git remote add origin https://github.com/seuusuario/portfolio-luana.git
+git push -u origin main
